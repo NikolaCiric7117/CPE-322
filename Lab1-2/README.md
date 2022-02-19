@@ -1,4 +1,4 @@
-#Labs 1 and 2: Command Line
+# Labs 1 and 2: Command Line
 
 ### hostname
 ![](assets/hostname.png)
