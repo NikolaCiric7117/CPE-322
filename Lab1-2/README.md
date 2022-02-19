@@ -31,7 +31,7 @@
 ![](assets/cat.png)
 
 ### cp, mv and rm
-![](assets/cp,mv,rm.png)
+![](assets/cp_mv_rm.png)
 
 ### clear
 ![](assets/clear.png)
@@ -52,11 +52,10 @@
 ![](assets/htop.png)
 
 
-
 ### ping ssh
 ![](assets/ssh.png)
 
-### ping localhost
+### ping netstat
 ![](assets/netstat.png)
 
 
