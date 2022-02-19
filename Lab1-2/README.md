@@ -52,10 +52,10 @@
 ![](assets/htop.png)
 
 
-### ping ssh
+### ssh
 ![](assets/ssh.png)
 
-### ping netstat
+### netstat
 ![](assets/netstat.png)
 
 
