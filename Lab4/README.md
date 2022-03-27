@@ -44,7 +44,7 @@
 
 ## Flask
 ### run Flask server
-![](assets/two_flask.png)
+![](assets/two_flash.png)
 
 ### Flask server display
 ![](assets/one_flask.png)
