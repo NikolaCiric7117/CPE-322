@@ -3,6 +3,9 @@
 ### copy files
 ![](assets/five.png)
 
+### simple line graph
+![](assets/four.png)
+
 ### nano plt_cv2.py
 ![](assets/two.png)
 
