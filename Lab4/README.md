@@ -39,7 +39,7 @@
 ### post to mem list
 ![](assets/twelve.png)
 
-### home page view but has error
+### home page view 
 ![](assets/thirteenNew.png)
 
 ## Flask
