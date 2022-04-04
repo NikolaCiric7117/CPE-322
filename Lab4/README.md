@@ -40,7 +40,7 @@
 ![](assets/twelve.png)
 
 ### home page view but has error
-![](assets/thrteen.png)
+![](assets/thirteenNew.png)
 
 ## Flask
 ### run Flask server
