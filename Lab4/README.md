@@ -41,3 +41,11 @@
 
 ### home page view but has error
 ![](assets/thrteen.png)
+
+## Flask
+### run Flask server
+![](assets/two_flash.png)
+
+### Flask server display
+![](assets/one_flask.png)
+
