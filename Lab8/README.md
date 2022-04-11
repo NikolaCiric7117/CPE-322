@@ -10,8 +10,8 @@
 ![](assets/two.png)
 
 ### nano plt_final.py
-![](assets/three.png)
+![](assets/newTwo.png)
 
 ### python3 plt_final.py
-![](assets/one.png)
+![](assets/newOne.png)
 
