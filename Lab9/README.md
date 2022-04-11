@@ -13,11 +13,11 @@
 ![](assets/Five.png)
 
 ### python3 -m plantuml intrusiondetection.uml
-![](assets/Six.png)
+![](assets/six.png)
 
 
 ### pinta intrusiondetection.png
-![](assets/Seven.png)
+![](assets/seven.png)
 
 
 ### gimp -a intrusiondetection.png
